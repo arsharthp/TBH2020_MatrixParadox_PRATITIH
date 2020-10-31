@@ -42,7 +42,10 @@ Matrix Paradox PRATITIH prototype submission
    
    WIX(WEBSITE),ILLUSTRATOR(LOGO)
 
-10. Link for Video / ppt showing how the prototype works ( be as creative and innovative as possible ).  
+10. Link for Video / ppt showing how the prototype works ( be as creative and innovative as possible ).
+
+
     
 11. Link for your website or app if you are using any third party apps like wix.com, etc. 
+    
     https://arsharth2000.wixsite.com/pratitih
