@@ -44,7 +44,7 @@ Matrix Paradox PRATITIH prototype submission
 
 10. Link for Video / ppt showing how the prototype works ( be as creative and innovative as possible ).
 
-
+https://drive.google.com/file/d/1x0GvBa_djdietpKkQI1CjccJ7HWxTZ0U/view
     
 11. Link for your website or app if you are using any third party apps like wix.com, etc. 
     
