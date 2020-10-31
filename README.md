@@ -21,7 +21,7 @@ Matrix Paradox PRATITIH prototype submission
 
 5. Which sdg does your project align with? 
    
-   QUALITY EDUCATION
+   QUALITY EDUCATION, NO POVERTY.
 
 6. Write a short description of your project.  
    
