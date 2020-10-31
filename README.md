@@ -7,8 +7,11 @@ Matrix Paradox PRATITIH prototype submission
 2. Team members name 
    
    ARSHARTH.P
+   
    DISHITA DONEPARTHY
+   
    CHATURYA CHINTA
+   
    DEVI MANOGNA VOLETY
 
 3. Name of project
